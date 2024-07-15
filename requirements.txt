@@ -1,0 +1,9 @@
+os
+librosa
+librosa.display
+IPython.display
+pandas
+numpy
+seaborn
+glob2
+more-itertools
