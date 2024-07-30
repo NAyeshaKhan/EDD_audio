@@ -1,9 +1,10 @@
 os
+glob2
 librosa
-librosa.display
-IPython.display
+IPython
 pandas
+matplotlib
 numpy
 seaborn
-glob2
+scipy
 more-itertools
