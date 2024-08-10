@@ -1,10 +1,12 @@
-os
+gc
 glob2
 librosa
 IPython
-pandas
 matplotlib
+more-itertools
 numpy
+os
+pandas
+pywt
 seaborn
 scipy
-more-itertools
